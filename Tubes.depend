@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1524802433 source:c:\users\g69\desktop\tubes\tubes\member.cpp
+	"member.h"
+	"memberData.h"
+
+1524800791 c:\users\g69\desktop\tubes\tubes\member.h
+	<iostream>
+	"memberData.h"
+
+1524800154 c:\users\g69\desktop\tubes\tubes\memberdata.h
+	<iostream>
+
+1524921966 source:c:\users\g69\desktop\tubes\tubes\memberdata.cpp
+	"memberData.h"
+
+1524802212 source:c:\users\g69\desktop\tubes\tubes\pcdata.cpp
+	"PCData.h"
+
+1524802035 c:\users\g69\desktop\tubes\tubes\pcdata.h
+	<iostream>
+
+1524815824 source:c:\users\g69\desktop\tubes\tubes\pc.cpp
+	"PC.h"
+	"PCData.h"
+
+1524802354 c:\users\g69\desktop\tubes\tubes\pc.h
+	<iostream>
+	"PCData.h"
+
+1524921775 source:c:\users\g69\desktop\tubes\tubes\main.cpp
+	<iostream>
+	<cstdlib>
+	"member.h"
+	"room.h"
+	"relation.h"
+
+1524918591 source:c:\users\g69\desktop\tubes\tubes\relation.cpp
+	"relation.h"
+	"member.h"
+	"room.h"
+
+1524822380 c:\users\g69\desktop\tubes\tubes\relation.h
+	<iostream>
+	"member.h"
+	"room.h"
+
+1524818906 source:c:\users\g69\desktop\tubes\tubes\room.cpp
+	"room.h"
+	"roomData.h"
+
+1524817024 c:\users\g69\desktop\tubes\tubes\room.h
+	<iostream>
+	"roomData.h"
+
+1524818876 c:\users\g69\desktop\tubes\tubes\roomdata.h
+	<iostream>
+
+1524921990 source:c:\users\g69\desktop\tubes\tubes\roomdata.cpp
+	"roomData.h"
+
+1524921632 source:c:\users\g69\desktop\tubes\tubes\casefunction.cpp
+	"caseFunction.h"
+
+1524921110 c:\users\g69\desktop\tubes\tubes\casefunction.h
+	"member.h"
+	"room.h"
+	"relation.h"
+
